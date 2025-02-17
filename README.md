@@ -57,7 +57,7 @@
 Our Team Rocket includes two members, we are enrolled in the Information Technology program at International University of Ho Chi Minh City.
 |Name - Github|Student ID|Tasks|Contribution|
 |:------------:|:-----:|:---------------:|:----:|
-|Nguyen Thi Yen Chi<br>[nguyenthiyenchi](https://github.com/nguyenthiyenchi)|ITITIU21005|<p align="left">- Write report<br>- Write mostly function of init()<br>- setClickEvents()<br>- Design UI, Sounds and Effect<br>- Draw Icons<br>- Fix Bugs</p>|50%|
+|Nguyen Thi Yen Chi<br>[chihiro-203](https://github.com/chihiro-203)|ITITIU21005|<p align="left">- Write report<br>- Write mostly function of init()<br>- setClickEvents()<br>- Design UI, Sounds and Effect<br>- Draw Icons<br>- Fix Bugs</p>|50%|
 |Ngo Luu Tan Hung<br>[HngNg](https://github.com/HngNg)|ITITIU21129|<p align="left">- Write report<br>- Write function of moveCat(), undo()<br>- Implement DSA Algorithm<br>- Draw UML Diagram<br>- Draw Icons<br>- Fix Bugs</p>|50%|
 
 <!-- System design and Modeling -->
