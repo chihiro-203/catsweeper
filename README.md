@@ -7,12 +7,12 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://github.com/nguyenthiyenchi/catsweeper/graphs/contributors"><img alt="contributors" src="https://img.shields.io/github/contributors/nguyenthiyenchi/catsweeper.svg?color=808080"></a>
-    <a href="https://github.com/nguyenthiyenchi/catsweeper/forks"><img alt="forks" src="https://img.shields.io/github/stars/nguyenthiyenchi/catsweeper"></a>
-    <a href="https://github.com/nguyenthiyenchi/catsweeper/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/nguyenthiyenchi/catsweeper"></a>
-    <a href="https://github.com//nguyenthiyenchi/catsweeper/issues"><img alt="" src="https://img.shields.io/github/issues/nguyenthiyenchi/catsweeper.svg?color=808080"></a>
+    <a href="https://github.com/chihiro-203/catsweeper/graphs/contributors"><img alt="contributors" src="https://img.shields.io/github/contributors/chihiro-203/catsweeper.svg?color=808080"></a>
+    <a href="https://github.com/chihiro-203/catsweeper/forks"><img alt="forks" src="https://img.shields.io/github/stars/chihiro-203/catsweeper"></a>
+    <a href="https://github.com/chihiro-203/catsweeper/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/chihiro-203/catsweeper"></a>
+    <a href="https://github.com//chihiro-203/catsweeper/issues"><img alt="" src="https://img.shields.io/github/issues/chihiro-203/catsweeper.svg?color=808080"></a>
     <br>
-    <img alt="" src="https://img.shields.io/github/created-at/nguyenthiyenchi/catsweeper?labelColor=808080&color=808080">
+    <img alt="" src="https://img.shields.io/github/created-at/chihiro-203/catsweeper?labelColor=808080&color=808080">
 </div>
 <div align="center">    
     <h1>CATSWEEPER</h1>    
